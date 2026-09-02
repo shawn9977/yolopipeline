@@ -1,0 +1,13 @@
+--- multi_dec_infer_enc/vpldecenc.cpp
++++ multi_dec_infer_enc/vpldecenc.cpp
+@@ -889,8 +892,8 @@ int VplDecEnc::RunPipeline(VplDecEnc &vplDecEnc, int id) {
+ 
+             vplSurf.smallSurface->FrameInterface->Release(vplSurf.smallSurface);
+ 
+-            //if (decoder.needCrop && result.size() > 0) {
+-            if (result.size() > 0) {
++            if (decoder.needCrop && result.size() > 0) {
++            //if (result.size() > 0) {
+                 std::vector<VASurfaceID> surfs;
+ 
+ #ifdef MEASURE_TIME

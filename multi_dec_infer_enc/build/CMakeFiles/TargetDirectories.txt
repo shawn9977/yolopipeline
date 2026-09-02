@@ -1,0 +1,6 @@
+/home/test/shawn/project/new/vpl_samples/multi_dec_infer_enc/build/CMakeFiles/multi_dec_infer_enc.dir
+/home/test/shawn/project/new/vpl_samples/multi_dec_infer_enc/build/CMakeFiles/edit_cache.dir
+/home/test/shawn/project/new/vpl_samples/multi_dec_infer_enc/build/CMakeFiles/rebuild_cache.dir
+/home/test/shawn/project/new/vpl_samples/multi_dec_infer_enc/build/rtsp/CMakeFiles/BitstreamReader.dir
+/home/test/shawn/project/new/vpl_samples/multi_dec_infer_enc/build/rtsp/CMakeFiles/edit_cache.dir
+/home/test/shawn/project/new/vpl_samples/multi_dec_infer_enc/build/rtsp/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libBitstreamReader.a CMakeFiles/BitstreamReader.dir/src/bitstream_reader.cpp.o CMakeFiles/BitstreamReader.dir/src/bitstream_file_reader.cpp.o CMakeFiles/BitstreamReader.dir/src/bitstream_rtsp_reader.cpp.o CMakeFiles/BitstreamReader.dir/src/buffer_sink.cpp.o CMakeFiles/BitstreamReader.dir/src/rtsp_client_deamon.cpp.o
+/usr/bin/ranlib libBitstreamReader.a
